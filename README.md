@@ -100,7 +100,7 @@ After setting, let's run it again from the toolbar.
 
 This screen will appear when you start up.
 
-![image|529x452](upload://3x4HFlBgpMm5rO7oJQ0uDUbSFaV.png) 
+![image|529x452](https://community.theta360.guide/uploads/default/original/2X/1/18c3ae626985851a962d2117bfb65329865a1309.png) 
 
 In this example, the HTTP server is running at 192.168.1.5:8888. The IP address depends on the environment.
 Try using the application
@@ -109,7 +109,7 @@ Once the plug-in is activated, you access http://192.168.1.5:8888 from the web b
 
 This time I visited from Google Chrome on Nexus 5X. If access is successful, the following page will be displayed.
 
-![image|281x500](upload://99LjLfGOdI12siWrA1FUnR40Ixu.jpeg) 
+![image|281x500](https://community.theta360.guide/uploads/default/original/2X/4/402e18a0076b682f837abba0e7c20c573a4b332c.jpeg) 
 
 Because the room is dirty it is mosaicing, but in fact the clear live view is displayed.
 
@@ -122,7 +122,7 @@ I will introduce the configuration of the plug-in made this time. The light blue
 As a feature, I have a signaling server (WebSocket server) and a web server in the plugin.
 You can use it as a web application by directly accessing THETA without an external server.
 
-![graphic-5|690x276](upload://t52uNh7MVZVJemIfw3OOF9IPX99.png) 
+![graphic-5|690x276](https://community.theta360.guide/uploads/default/original/2X/c/cbd0e6e0d867bbb12388779b9d413d3410b45a6b.png) 
 
 # Signaling server
 
