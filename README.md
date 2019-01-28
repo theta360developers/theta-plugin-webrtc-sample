@@ -10,7 +10,7 @@ I will introduce a plug-in that uses WebRTC to trigger the shutter of a RICOH TH
 
 The plug-in is a result of trying to build a web-based application that provided the remote shutter function of the THETA standard application using WebRTC only.
 
-![graphic-1|690x241](https://community.theta360.guide/uploads/default/original/2X/6/6eaa09e26d6a55c2251d28b457e152cb8a7ab92f.png) 
+![graphic-1|690x241](https://community.theta360.guide/uploads/default/original/2X/b/bec3dbf344c6d91ce379c3884ca4e5c9664bb050.jpeg) 
 
 ## Source Code
 
@@ -40,7 +40,7 @@ A server that mediates exchange of session information and exchange of communica
 
 Actually, this exchange method is not specified and is free. Extreme story, exchanging verbally ... Entering with hands ... it is ok too. In fact it is common to exchange using WebSocket.
 
-![graphic-2|690x315](upload://fMYPk2s8lgdJqaKvmQjXIkvAHzV.png) 
+![graphic-2|690x315](https://community.theta360.guide/uploads/default/original/2X/6/6eaa09e26d6a55c2251d28b457e152cb8a7ab92f.png) 
 
 
 # Building the Plug-in 
