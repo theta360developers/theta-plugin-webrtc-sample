@@ -145,7 +145,7 @@ The application file (HTML / CSS / JavaScript) is put in the assets folder and i
 In addition, we also include settings.json which is a setting file proprietary to THETA to start the Web server.
 The commentary on this area is detailed in the following articles.
 
-[How to implement Web UI of THETA plug-in](https://qiita.com/3215/items/d156307dfadd7dc2fbf6). (Japanese). Note: English version will be published soon. Please check this site.
+[How to implement Web UI of THETA plug-in](https://community.theta360.guide/t/creating-a-webui-for-your-theta-plug-in/4054?u=codetricity). (English Translation). 
 
 # WebRTC library
 
