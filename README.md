@@ -67,23 +67,23 @@ First, download the project from https://github.com/ricohapi/theta-plugin-webrtc
 
 Once you have downloaded it, import the project in Android Studio. Please import the folder with `build.gradle`.
 
-![image|690x428](upload://8vlFIr7H7TegLqhGJUJvKYNEa5h.png) 
+![image|690x428](https://community.theta360.guide/uploads/default/original/2X/3/3b9c982edc8838a99a605c09b1868db554064ebf.png) 
 
-![graphic-4|690x434](upload://mxQ4apikrlBdDBMAwKouA4QEmsA.png) 
+![graphic-4|690x434](https://community.theta360.guide/uploads/default/original/2X/9/9e0317d412d9f11e88bdb2bf18f118a8cfa910c4.png) 
 
 Introduction It takes time to install tool chains and libraries. Please wait a while.
 
 When the import is completed, please connect THETA V with debug mode enabled and press execute button on tool bar. The build and execution of the plug-in begin.
 
-![image|440x164](upload://oG34fGppAUpcNA2OB9WwaFpdfye.png) 
+![image|440x164](https://community.theta360.guide/uploads/default/original/2X/a/acf50403c6e766619e2a146c8730e9a080b6770e.png) 
 
 If the following error occurs during the build, install the tool chain according to the error message.
 
-![image|343x41](upload://x2bNJSRko7vW7VbtuxsgknvwTq5.png) 
+![image|343x41](https://community.theta360.guide/uploads/default/original/2X/e/e787204fc89ba318e554a22440dbdaa6e455293d.png) 
 
 When the build succeeds and the plug-in is executed, the sound will beeping from THETA and it will end immediately. This is because the authority is not set in the plugin, so grant the privilege from the application settings. 
 
-![image|529x360](upload://ze3BtbdbBZ49VEuXGuhX7h5Tpe8.png) 
+![image|529x360](https://community.theta360.guide/uploads/default/original/2X/f/f6e2e84468f824e12a73358d9b26b47362355188.png) 
 
 You can also set it with the following command.
 
@@ -96,7 +96,7 @@ Permission setting is necessary only for the first time. Also, when actually dis
 
 After setting, let's run it again from the toolbar.
 
-![image|440x164](upload://oG34fGppAUpcNA2OB9WwaFpdfye.png) 
+![image|440x164](https://community.theta360.guide/uploads/default/original/2X/a/acf50403c6e766619e2a146c8730e9a080b6770e.png) 
 
 This screen will appear when you start up.
 
