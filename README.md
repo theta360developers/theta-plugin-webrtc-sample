@@ -178,3 +178,6 @@ It is responsible for providing GUI and exchanging with the signaling server, se
 * I created a shooting application plug-in with live view function.
 * By using WebRTC, it realized as a web application that runs on the browser.
 * It enabled to run without external server by using P2P mode.
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/theta-plugin-webrtc-sample)
+
