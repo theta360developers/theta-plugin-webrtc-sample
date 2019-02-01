@@ -2,6 +2,9 @@
 
 This article was [originally published](https://qiita.com/shrhdk_/items/28b1e502e5a68ec2a906) in Japanese by [Hideki Shiro](https://qiita.com/shrhdk_) (@shrhdk_ on Qiita).
 
+[Discussion](https://community.theta360.guide/t/create-a-webrtc-p2p-shooting-app-with-the-theta-plug-in/4050/2?u=codetricity) 
+(English)
+
 # Introduction
 
 Hello, @shrhdk_ of Ricoh.
